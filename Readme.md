@@ -89,5 +89,5 @@ Ce projet a été réalisé en collaboration avec:
 
 ## 📜 Licence
 
-Ce projet est sous la [Licence MIT](https://github.com/GhntSergio/blob/main/Fashion%20ethic/LICENSE). Voir le fichier [LICENSE](https://github.com/GhntSergio/blob/main/Fashion%20ethic/LICENSE) pour plus de détails.
+Ce projet est sous la [Licence MIT](https://github.com/GhntSergio/Fashion-ethic/blob/main/LICENSE). Voir le fichier [LICENSE](https://github.com/GhntSergio/Fashion-ethic/blob/main/LICENSE) pour plus de détails.
 

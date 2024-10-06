@@ -45,12 +45,12 @@ Nos résultats ont révélé des informations clés, telles que les catégories 
 
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1; padding-right: 10px;">
-        <img src="https://github.com/GhntSergio/All-projets/raw/main/Fashion%20ethic/img/Visualisation_projetIA_page-0001.jpg" alt="Figure 1: Evolution et répartition des ventes" style="width: 100%;"/>
+        <img src="https://github.com/GhntSergio/Fashion-ethic/tree/main/img/Visualisation_projetIA_page-0001.jpg" alt="Figure 1: Evolution et répartition des ventes" style="width: 100%;"/>
         <p style="text-align: center;">
         </p>
     </div>
     <div style="flex: 1; padding-left: 10px;">
-        <img src="https://github.com/GhntSergio/All-projets/raw/main/Fashion%20ethic/img/Visualisation_projetIA_page-0002.jpg" alt="Figure 2: Evolution et répartition des ventes" style="width: 100%;"/>
+        <img src="https://github.com/GhntSergio/Fashion-ethic/tree/main/img/Visualisation_projetIA_page-0002.jpg" alt="Figure 2: Evolution et répartition des ventes" style="width: 100%;"/>
         <p style="text-align: center;">
         </p>
     </div>
@@ -89,5 +89,5 @@ Ce projet a été réalisé en collaboration avec:
 
 ## 📜 Licence
 
-Ce projet est sous la [Licence MIT](https://github.com/GhntSergio/All-projets/blob/main/Fashion%20ethic/LICENSE.md). Voir le fichier [LICENSE.md](https://github.com/GhntSergio/All-projets/blob/main/Fashion%20ethic/LICENSE.md) pour plus de détails.
+Ce projet est sous la [Licence MIT](https://github.com/GhntSergio/blob/main/Fashion%20ethic/LICENSE). Voir le fichier [LICENSE](https://github.com/GhntSergio/blob/main/Fashion%20ethic/LICENSE) pour plus de détails.
 

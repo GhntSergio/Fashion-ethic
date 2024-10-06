@@ -45,12 +45,12 @@ Nos résultats ont révélé des informations clés, telles que les catégories 
 
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1; padding-right: 10px;">
-        <img src="https://github.com/GhntSergio/Fashion-ethic/tree/main/img/Visualisation_projetIA_page-0001.jpg" alt="Figure 1: Evolution et répartition des ventes" style="width: 100%;"/>
+        <img src="https://github.com/GhntSergio/Fashion-ethic/blob/main/img/Visualisation_projetIA_page-0001.jpg" alt="Figure 1: Evolution et répartition des ventes" style="width: 100%;"/>
         <p style="text-align: center;">
         </p>
     </div>
     <div style="flex: 1; padding-left: 10px;">
-        <img src="https://github.com/GhntSergio/Fashion-ethic/tree/main/img/Visualisation_projetIA_page-0002.jpg" alt="Figure 2: Evolution et répartition des ventes" style="width: 100%;"/>
+        <img src="https://github.com/GhntSergio/Fashion-ethic/blob/main/img/Visualisation_projetIA_page-0002.jpg" alt="Figure 2: Evolution et répartition des ventes" style="width: 100%;"/>
         <p style="text-align: center;">
         </p>
     </div>
